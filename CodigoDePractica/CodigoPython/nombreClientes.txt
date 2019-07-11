@@ -1,0 +1,4 @@
+NOMBRE	TELEFONO	PRODUCTO
+Elías Alejandro	4921242270	papas
+Ilse Regina	1234567890	salsa
+Carlos Roberto	7894561235	carro
